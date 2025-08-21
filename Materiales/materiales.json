@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "Acud-0001",
+        "descripcion": "Alambre de cobre desnudo No. 28",
+        "unidad": "ml",
+        "precio": 800.0,
+        "peso": 0.0056
+    },
+    {
+        "codigo": "ccud-0001",
+        "descripcion": "Cable de cobre desnudo No. 22",
+        "unidad": "2500",
+        "precio": 0.015,
+        "peso": 0.015
+    },
+    {
+        "codigo": "ccud-0002",
+        "descripcion": "Cable de cobre desnudo No. 20",
+        "unidad": "ml",
+        "precio": 2750.0,
+        "peso": 0.0175
+    },
+    {
+        "codigo": "cemg-0001",
+        "descripcion": "Cemento gris tipo portland",
+        "unidad": "sc",
+        "precio": 18500.0,
+        "peso": 25.0
+    },
+    {
+        "codigo": "cemg-0002",
+        "descripcion": "cemento gris tipo portland saco 50 kg",
+        "unidad": "sc",
+        "precio": 36000.0,
+        "peso": 50.0
+    },
+    {
+        "codigo": "MADE-0001",
+        "descripcion": "Tabla burra 1.5\"x0.8\"x3.0",
+        "unidad": "un",
+        "precio": 2900.0,
+        "peso": 8.0
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "AAAA-0001",
+        "descripcion": "aAAAAAAAAAAAaaaaaaa",
+        "unidad": "kG",
+        "precio": 1200.0,
+        "peso": 0.01
+    },
+    {
+        "codigo": "GGGG-0001",
+        "descripcion": "GGGGGGGGGGGGGGGgggggggggggggggg",
+        "unidad": "kG",
+        "precio": 5200.0,
+        "peso": 0.23
+    },
+    {
+        "codigo": "KKKK-0001",
+        "descripcion": "kkkkkkkkkddddddddd",
+        "unidad": "un",
+        "precio": 56200.0,
+        "peso": 0.256
+    }
+]
